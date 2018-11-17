@@ -19,27 +19,45 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "IT Lead"
+  company = "AG Radiology Imaging Center"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Katy, Texas"
+  date_start = "2015-06-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  *	Handling IT tasks ranging from installing new computers, networking gear, and servers, and managing XenServer cluster. 
+  *	Programming billing software to streamline workflow for backend administrators
+  *	Working with 3rd party vendors to bridge legacy systems and new systems with HL7, Mirth, and PHP
+  *	Managing Office 365 and setting up workflows to streamline business processes
+  *	Implementing cloud based technologies such as Azure Functions and Azure Logic Apps in order to automate business tasks
+  """
+[[experience]]
+  title = "Computational Biomedicine Laboratory Intern"
+  company = "University of Houston"
+  company_url = ""
+  location = "Houston, Texas"
+  date_start = "2018-06-01"
+  date_end = "2018-10-31"
+  description = """
+  * Worked on deep learning backed facial recognition algorithms. 
+  * Implemented a heterogeneous facial recognition algorithm using a Siamese neural network in  MXNet and Gluon.
+  * Utilized data science tools like Jupyter, Numpy, Keras, Pandas, MXNet, Gluon, and Spyder, to create high performance deep learning algorithms.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Non-Invasive Brain Machine Interfaces Lab Intern"
+  company = "University of Houston"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Houston, Texas"
+  date_start = "2017-06-01"
+  date_end = "2017-08-31"
+  description = """
+  *	Created a web based system in order to ingest data and annotate research data to be trained on machine learning systems
+  * Implemented an integration for MatLab data to be rasterized and move freely between disparate archive systems and cloud-based GUI web apps
+  * Worked on community service project where I learned lots about EEG data and shared this information with community
+  *	Worked to improve knowledge on the brain, and improve brain controlled prosthetics
+  """
+
 
 +++
