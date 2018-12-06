@@ -34,3 +34,8 @@ Now, I totally understand that most (*if not all*) are really just user issues, 
 ## How can we solve this?
 
 Of course, this issue seemed really easy to solve at first: "Why don't I just keep a history of all code execution in my kernel?" This is *a* solution, but not a great one. If this solution were adopted, an end user would need to sift through tons of extra content to figure out the flow of their notebook. The whole point of this endeavor was to make notebooks *easier* and *faster*, so I quickly dropped this solution. 
+
+# Can a graph based solution work?
+
+A tool I have recently started using is *Gitkraken*. Yes, I know it's not FOSS and yes it's *electron* (shudder), it still looks great and functions pretty well for me.
+Gitkraken has this amazing branch graph view which I really appreciate, and I really think a view like this can be really beneficial to the solution for notebooks. 
