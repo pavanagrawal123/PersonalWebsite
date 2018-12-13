@@ -58,6 +58,18 @@ date_format = "January 2006"
   * Worked on community service project where I learned lots about EEG data and shared this information with community
   *	Worked to improve knowledge on the brain, and improve brain controlled prosthetics
   """
+[[experience]]
+  title = "PostgreSQL Google Code In Mentor"
+  company = "PostgreSQL"
+  company_url = ""
+  location = "Online"
+  date_start = "2018-10-10"
+  date_end = "2018-12-27"
+  description = """
+  * Mentored over 150 students in the Google Code In Competition.
+  * Collaborated with engineers/developers from AWS, Pivotal, Crunchy Data to create a great Google Code In experience.
+  * Led the development on the PostgresGallery project, aimed to help highlight some of the lesser known features in PostgreSQL. 
+  """
 
 
 +++
