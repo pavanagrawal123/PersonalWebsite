@@ -282,13 +282,8 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Posts"
-  url = "/post"
-  weight = 3
-
-[[menu.main]]
   name = "Talks"
-  url = "/talk"
+  url = "#talks"
   weight = 4
 
 [[menu.main]]
