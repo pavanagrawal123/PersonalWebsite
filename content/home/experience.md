@@ -24,7 +24,7 @@ date_format = "January 2006"
   company_url = ""
   location = "Katy, Texas"
   date_start = "2015-06-01"
-  date_end = ""
+  date_end = "2019-08-10"
   description = """
   *	Handling IT tasks ranging from installing new computers, networking gear, and servers, and managing XenServer cluster. 
   *	Programming billing software to streamline workflow for backend administrators
@@ -70,6 +70,21 @@ date_format = "January 2006"
   * Collaborated with engineers/developers from AWS, Pivotal, Crunchy Data to create a great Google Code In experience.
   * Led the development on the PostgresGallery project, aimed to help highlight some of the lesser known features in PostgreSQL. 
   """
-
+[[experience]]
+  title = "Full Stack Programmer"
+  company = "AG Radiology Imaging Center"
+  company_url = ""
+  location = "Katy, Texas"
+  date_start = "2019-08-10"
+  date_end = ""
+  description = """
+* Designed inbound order solution that aggregates faxes, emails, and electronically sent order over HL7
+* Led daily standups for programming project with a team of 4 developers
+* Led architecture design for the software, engineered the application from the top
+down
+* Created the final project in Javascript with Node.JS, Express, and React
+* Created a bridge between the legacy system and newly developed application using
+HL7 through Mirth
+  """
 
 +++
